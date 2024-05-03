@@ -1,8 +1,4 @@
-# student-management
 
-Certainly! Here's an updated README with information on using Git for managing the project:
-
----
 
 # Student Management System
 
